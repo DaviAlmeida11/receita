@@ -1,0 +1,23 @@
+*{
+
+
+margin: 0;
+padding: 0;
+box-sizing: sans-serif;
+font-family: sans-serif;
+} 
+font: 1.2em sans-serif;
+}
+.wrapper {
+  display: flex;
+}
+
+.wrapper > * {
+  margin: 20px;
+}
+
+.box {
+  border: 5px solid darkblue;
+  height: 100px;
+  width: 200px;
+}
