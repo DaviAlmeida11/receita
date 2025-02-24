@@ -1,32 +1,32 @@
 *{
 
 
-margin: 0;
-padding: 0;
-box-sizing: sans-serif;
-font-family: sans-serif;
-} 
-
-.wrapper {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
-.wrapper > * {
-  margin: 20px;
-}
-body{
-  justify-content: center;
-  display: flex;
-  align-items: center;
-  background-color: antiquewhite;
-}
-
-.box {
-  border: 5px solid darkblue;
-  height: 100px;
-  width: 200px;
-  justify-content: center;
-  align-items: center;
-}
+  margin: 0;
+  padding: 0;
+  box-sizing: sans-serif;
+  font-family: sans-serif;
+  } 
+  
+  .wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .wrapper > * {
+    margin: 20px;
+  }
+  body{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    background-color: antiquewhite;
+  }
+  
+  .box {
+    border: 5px solid darkblue;
+    height: 100px;
+    width: 200px;
+    justify-content: center;
+    align-items: center;
+  }
